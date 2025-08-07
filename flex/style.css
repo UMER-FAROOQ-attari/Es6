@@ -1,0 +1,13 @@
+h1 ,p{
+    border: 2px solid black;
+    border-radius: 10px;
+}
+#head{
+    display: flex;
+    gap: 20px;
+        justify-content: space-between;
+}
+
+.preant{
+    display: flex;
+}
